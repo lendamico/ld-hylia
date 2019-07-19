@@ -13,6 +13,8 @@ const parseTransform = require('./src/transforms/parse-transform.js');
 // Import data files
 const site = require('./src/_data/site.json');
 
+
+
 module.exports = function(config) {
   // Filters
   config.addFilter('dateFilter', dateFilter);
@@ -43,7 +45,16 @@ module.exports = function(config) {
       ...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)
     ].reverse();
   });
-
+  config.addCollection('speaking', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/speaking/*.md').filter(livePosts)
+    ].reverse();
+  });
+  config.addCollection('micro', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/micro/*.md').filter(livePosts)
+    ].reverse();
+  });
   config.addCollection('postFeed', collection => {
     return [...collection.getFilteredByGlob('./src/posts/*.md').filter(livePosts)]
       .reverse()

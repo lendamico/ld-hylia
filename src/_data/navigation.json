@@ -7,12 +7,18 @@
     },
     {
       "text": "About",
-      "url": "/about"
+      "url": "/about/",
+      "external": false
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/lendamico",
-      "external": true
+      "text": "Speaking",
+      "url": "/speaking/",
+      "external": false
+    },
+    {
+      "text": "Contact",
+      "url": "/contact/",
+      "external": false
     }
   ]
 }

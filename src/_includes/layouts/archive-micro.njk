@@ -1,0 +1,39 @@
+{% extends 'layouts/base.njk' %}
+{% set pageType = 'Archive-Microblog' %}
+
+
+{# Intro content #}
+{% set introHeading = title %}
+{% set introSummary %}{{ content | safe }}{% endset %}
+
+{# Post list content #}
+{% set postListItems = collections.micro %}
+
+{% block content %}
+  <main id="main-content" tabindex="-1">
+    {% include "partials/components/intro.njk" %}
+    {% if postListItems.length %}
+      <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
+        <div class="[ inner-wrapper ] [ sf-flow ]">
+          <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
+          <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
+            {% for item in postListItems %}
+              {% if item.date.getTime() <= global.now %}
+                <li class="post-list__item gap-top-600">
+                  <div class="text-500 gap-top-300">
+                    {{ item.templateContent | safe }}
+                  </div>
+
+                  <p class="text-500 gap-top-300 weight-mid">
+                    <a href="{{ item.url }}" class="post-list__link" rel="bookmark"><time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time></a>
+                  </p>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ol>
+        </div>
+      </section>
+    {% endif %}
+
+  </main>
+{% endblock %}
