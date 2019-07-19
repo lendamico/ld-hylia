@@ -1,6 +1,5 @@
 ---
 date: 2016-06-02
-excerpt: It takes a village to make a great digital product. Here's how we do it at [Arcweb Technologies](http://arcweb.co).
 image:
   feature: /articles/the-arcweb-technologies-design-studio.jpg
 tags: design
@@ -9,7 +8,7 @@ title: Democratizing design with the Design Studio method
 
 It takes a village to make a great digital product. Here's how we do it at [Arcweb Technologies](http://arcweb.co).
 
-<p class="notice-info">This post is an adaptation of <a href="/speaking/2015-11-18/tech2gether/">the talk I gave at Tech2Gether</a> in November of 2015. You can read what Technical.ly said about it <a href="http://technical.ly/delaware/2015/11/20/heres-firms-consider-democratizing-design-process/">here.</a></p>
+(Note: This post is an adaptation of [the talk I gave at Tech2Gether](/speaking/2015-11-18/tech2gether/) in November of 2015. You can read what Technical.ly said about it [here](http://technical.ly/delaware/2015/11/20/heres-firms-consider-democratizing-design-process/))
 
 You've all heard the phrase “[Software is eating the world,](http://www.forbes.com/sites/stevedenning/2014/04/11/why-software-is-eating-the-world/#240ccbb33b24)” right? I find that a weird way to look at things, but it's still an interesting point. Everywhere you look, there's a new previously dumb device adding software to stay competitive. There's even a [connected egg tray](http://www.amazon.com/Quirky-Minder-Wink-Enabled-Smart/dp/B00GN92KQ4) that sits in your fridge now and tells your smartphone when your eggs might go bad. What a time to be alive, right?
 
@@ -48,6 +47,8 @@ So, how do you pivot from being a pixel pusher to a design steward? Here’s how
 
 ## The Arcweb Technologies Design Studio
 
+![The Arcweb Technologies Design Studio](/images/posts/the-arcweb-technologies-design-studio.jpg 'A methodology, not a place.')
+
 We do Design Studio. Design Studio isn't a place; it's a methodology. It's not a proprietary thing, or even a new idea. You can start doing this tomorrow if you like. Hey, we'll be happy to [conduct a workshop](http://arcweb.co/contact) with your company or startup to show you how (_hint hint_). So what is it?
 
 Design Studio is a methodology we use to create digital products people love. There are three core ideas behind it:
@@ -68,7 +69,7 @@ I want to let you in on another little secret: *I can't draw, either.* Seriously
 
 Let me repeat that: **Sketching isn’t drawing.** Here, look:
 
-![Like this:](/assets/images/articles/like-this.jpg)
+![Like this:](/images/posts/like-this.jpg 'Like this.')
 
 These are the kinds of sketches we're looking for. Juuuuuuust enough detail to convey your idea. That's a login page, there's kind of a landing page, and that's a modal overlay. That took me maybe 20 seconds. That's all you need.
 

@@ -1,23 +1,8 @@
 ---
-category: design
 date: 2016-01-12
-excerpt:
-image:
-  credit:
-  creditlink:
-  feature: /articles/sketch-hacks-len-damico.jpg
-  teaser:
-kind: article
-link: https://arcweb.co/three-weird-tricks-that-can-help-your-sketching-or-not/
-medium: https://medium.com/the-product-blog/three-weird-tricks-that-can-help-your-sketching-or-not-f53bb0a583a0#.s0f2fpib1
-source: arcweb.co
-tags: sketching
+tags: design
 title: Three Weird Tricks That Might Help Your Sketching (or not)
 ---
-
-They might not work for you, though, and that's okay!
-
-<!-- more -->
 
 Sketching remains [a vital part](https://arcweb.co/why-we-sketch/) of the design process here at Arcweb Technologies, and has been incredibly transformative for me, personally:
 
@@ -28,6 +13,8 @@ Any old writing instrument and paper can work for sketching. It’s an incredibl
 ### Dots, Not Grids
 
 Graph paper can help make your layouts feel more like precision documents than rough doodles, but not all graph paper is created equal. Some variants have lines so dark that you struggle to see your sketches on it.
+
+![Dot grid journal](/images/posts/sketch-hacks-len-damico.jpg 'Dot grids allow for some precision and alignment, but don’t compete with your sketches.')
 
 The secret: find dotted graph paper rather than lined. The dots allow for some precision and alignment, but don’t compete with your sketches. (I personally love [these hard-backed notebooks](http://www.baronfig.com/pages/confidant) from Baron Fig, which are available with dotted pages.)
 

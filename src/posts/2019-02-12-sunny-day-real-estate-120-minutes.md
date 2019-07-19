@@ -1,9 +1,6 @@
 ---
-category: music
 date: 2019-02-12
-excerpt: Y’know how the YouTube algorithm is awful, but sometimes it serves you a gem that feels like a piece of yourself in a time capsule?
-kind: article
-tags: sunny day real estate, 120 minutes
+tags: music
 title: Shakespeare turned dust to dust
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NM5_-aSaGhU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -18,4 +15,4 @@ My wrists hurt from watching William Goldsmith pound those drums so expertly.
 
 And the interplay between Dan Hoerner and Jeremey Enigk's guitars and voice is often too much to bear for me.
 
-I *worshiped* this band. I loved them so much. So, so much.
+I *worshiped* Sunny Day Real Estate. I loved this band so much. So, so much.

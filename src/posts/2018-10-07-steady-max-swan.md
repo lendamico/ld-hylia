@@ -1,8 +1,6 @@
 ---
-category: music
 date: 2018-10-07
-kind: article
-tags: max swan
+tags: music
 title: Paint this picture in my mind, my masterpiece
 ---
 

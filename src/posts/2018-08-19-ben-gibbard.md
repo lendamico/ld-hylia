@@ -1,10 +1,9 @@
 ---
-category: music
 date: 2018-08-19
-kind: article
-tags: death cab for cutie, ben gibbard
-title: "&ldquo;I'll never have another year like that&rdquo;"
+title: I'll never have another year like that
+tags: music
 ---
+
 Ben Gibbard's been doing the rounds to promote Death Cab for Cutie's quite good new record, [Thank You For Today](https://open.spotify.com/album/6agCM9GJcebduMddgFmgsO?si=JZ3I54gGR7y6LKaNJcmTqg).
 
 Gibbard was asked to [force-rank all eight Death Cab albums](https://noisey.vice.com/en_us/article/9kmzp8/rank-your-records-death-cab-for-cutie-ben-gibbard), and his answers were [somewhat controversial](https://news.avclub.com/ben-gibbard-incorrectly-ranks-the-best-death-cab-albums-1828253300) (_The Photo Album_ is way too low for my liking). However, it's [this interview with Entertainment Weekly](https://ew.com/music/2018/08/14/ben-gibbard-death-cab-thank-you-for-today-interview/) that stuck with me.

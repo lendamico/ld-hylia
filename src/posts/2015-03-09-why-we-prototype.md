@@ -1,6 +1,5 @@
 ---
 date: 2015-03-09
-source: arcweb.co
 tags: design
 title: Why We Prototype
 ---

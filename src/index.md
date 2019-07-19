@@ -5,4 +5,4 @@ postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ''
 ---
-is a dad, designer, speaker, hop dork.
+Dad. Designer. Third Thing. (This site is a work in progress.)

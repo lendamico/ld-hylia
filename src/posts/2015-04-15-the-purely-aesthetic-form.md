@@ -1,8 +1,6 @@
 ---
 date: 2015-04-15
 excerpt: When you're Jony Ive, what's two millimeters, in the grand scheme of things?
-image:
-  feature: /articles/the-purely-aesthetic-form.jpg
 tags:
   - design
   - books

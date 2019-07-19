@@ -1,7 +1,6 @@
 ---
 date: 2011-03-13
 excerpt: My old site was featured in a SxSW presentation on compelling web content. NBD.
-link: http://www.slideshare.net/stephaniehay/no-boring-content-allowed-4824472/20
 title: No Boring Content Allowed (SxSW)
 ---
 

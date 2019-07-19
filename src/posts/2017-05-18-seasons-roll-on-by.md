@@ -1,20 +1,7 @@
 ---
-category: music
 date: 2017-05-18
-excerpt: Soundgarden was always on the periphery, always high quality, but never The Band That Could Be Your Life.
-header:
-  caption: Max Vadukul
-  overlay_image: http://media.cleveland.com/popmusic_impact/photo/chris-cornell-max-vadukuljpg-4a51821142ea7d95.jpg
-  overlay_filter: 0.3
-  # overlay_color: "#333"
-kind: article
-layout: article
-medium: https://medium.com/@lendamico/the-seasons-roll-on-by-9a90b6515dff
-tags:
-  - soundgarden
-  - chris cornell
+tags: music
 title: The seasons roll on by
-fa: pencil-alt
 ---
 
 Soundgarden was never my "favorite band."

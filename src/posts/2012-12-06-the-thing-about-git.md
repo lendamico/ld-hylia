@@ -14,7 +14,7 @@ Except it doesn't work that way.
 
 Let's take [Tower](http://www.git-tower.com/), for instance. My goodness, is this a beautiful app. Just look at it!
 
-![](/assets/images/articles/pull-requests.png)
+![Tower for Git](/images/posts/pull-requests.png 'Shiny.')
 
 Just the type of polish you'd expect from a best-in-class Mac app.
 
@@ -24,4 +24,4 @@ No matter how beautiful the app, you have to understand Git conceptually, or els
 
 Terminal-phobes: I know it's scary, but you're going to have to get your hands dirty sooner or later. You can't hide behind a GUI forever.
 
-<p class="notice-info">Looking for a place to start? I've found both [Git Immersion](http://gitimmersion.com/) and the [Pro Git](http://git-scm.com/book) book to be super helpful.</p>
+(<p class="notice-info">)Looking for a place to start? I've found both [Git Immersion](http://gitimmersion.com/) and the [Pro Git](http://git-scm.com/book) book to be super helpful.)

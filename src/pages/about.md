@@ -9,3 +9,7 @@ Over the course of his career, Len has led mobile initiatives for companies like
 Len is also a founding member of [PHLDesign Co](http://phldesign.co), the region’s premier online community for designers, and [Roar Lions Roar](http://roarlionsroar.com), the best independent Penn State sports blog out&nbsp;there.
 
 Len lives just outside of Wilmington, Delaware, with his wife and two&nbsp;sons.
+
+http://technical.ly/delaware/2015/05/15/how-i-work-len-damico-arcweb/
+
+https://arcweb.co/meet-arcweb-user-experience-designer-len-damico/
