@@ -47,3 +47,11 @@
     }
   }
 }
+
+ul.elsewhere {
+  list-style: disc;
+  margin-top: 0;
+  li {
+    margin-bottom: .25em;
+  }
+}

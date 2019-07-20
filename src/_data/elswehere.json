@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "link": "Twitter",
+      "url": "https://twitter.com/lendamico",
+      "external": true,
+      "text": "(mostly college football and shitposting)"
+    },
+    {
+      "link": "LinkedIn",
+      "url": "https://www.linkedin.com/in/thelendamico/",
+      "external": true,
+      "text": "(extremely professional things)"
+    },
+    {
+      "link": "Github",
+      "url": "https://github.com/lendamico",
+      "external": true,
+      "text": "(code, including the source for this site)"
+    },
+    {
+      "link": "Micro.blog",
+      "url": "https://len.micro.blog",
+      "external": true,
+      "text": "(micro posts start here and end up syndicated to this site and elsewhere)"
+    },
+    {
+      "link": "Mastodon",
+      "url": "https://jawns.club/@len",
+      "external": true,
+      "text": "(mostly just a syndecation destination)"
+    },
+    {
+      "link": "Spotify",
+      "url": "https://open.spotify.com/user/thelendamico?si=P3KKFoGFSqCR6snV0YSfdQ",
+      "external": true,
+      "text": "(follow me in my quest to create the ultimate 90s playlist)"
+    }
+  ]
+}

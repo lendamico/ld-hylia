@@ -1,0 +1,17 @@
+{% if elswehere.items %}
+<h3> Elsewhere</h3>
+<p>Other places you can find me:</p>
+    <ul class="elsewhere">
+      {% for item in elswehere.items %}
+        {% set currentAttribute = '' %}
+
+        {% if page.url == item.url %}
+          {% set currentAttribute = ' aria-current="page"' %}
+        {% endif %}
+
+        <li>
+          <a href="{{ item.url }}" rel="me" {{ currentAttribute | safe }}>{{ item.link }}</a> {{ item.text }}
+        </li>
+      {% endfor %}
+    </ul>
+{% endif %}
