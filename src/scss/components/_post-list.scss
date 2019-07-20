@@ -2,11 +2,15 @@
   &__item {
     --flow-space: #{get-size(700)};
   }
+  time {
+    color: var(--color-mid);
+
+  }
 
   &__link {
     &,
     &:visited {
-      color: var(--color-theme-primary);
+      color: var(--color-theme-dark);
       text-decoration: none;
     }
 
