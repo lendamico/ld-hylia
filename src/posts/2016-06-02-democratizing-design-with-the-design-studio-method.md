@@ -1,5 +1,6 @@
 ---
 date: 2016-06-02
+excerpt: Design is too important to be left to just designers. Here's how we can fix it. 
 image:
   feature: /articles/the-arcweb-technologies-design-studio.jpg
 tags: design

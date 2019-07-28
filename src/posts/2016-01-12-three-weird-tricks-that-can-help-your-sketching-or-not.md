@@ -1,5 +1,6 @@
 ---
 date: 2016-01-12
+excerpt: They might not, though, and that's okay!
 tags: design
 title: Three Weird Tricks That Might Help Your Sketching (or not)
 ---
